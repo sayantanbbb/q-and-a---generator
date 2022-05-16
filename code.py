@@ -1,4 +1,4 @@
-%%writefile app.py 
+
 import streamlit as st
 from simplet5 import SimpleT5
 import random
